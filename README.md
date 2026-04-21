@@ -1,2 +1,2 @@
-# Begeinner_sam
+# Beginner_sam
 For my codes
